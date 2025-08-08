@@ -12,3 +12,4 @@ C:\Users\Lu\Documents\VS projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9
 C:\Users\Lu\Documents\VS projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.pdb
 C:\Users\Lu\Documents\VS projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.genruntimeconfig.cache
 C:\Users\Lu\Documents\VS projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\ref\projetocsharp.dll
+C:\Users\Lu\Documents\VS projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.sourcelink.json

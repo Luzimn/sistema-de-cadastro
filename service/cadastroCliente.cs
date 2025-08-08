@@ -1,43 +1,14 @@
-﻿using projetocsharp.models;
-using Projetocsharp.services;
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        MenuCadastro.ExecutarMenu();
-    }
-}
+using projetocsharp.models;
 
 
 
+namespace Projetocsharp.services {
+    public class MenuCadastro {
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/*Console.WriteLine("todos os campos preenchidos?");
+        public static void ExecutarMenu()
+        {
+            
+            Console.WriteLine("todos os campos preenchidos?");
     Console.WriteLine("sim");
     Console.WriteLine("nao");
 string? sim = Console.ReadLine();
@@ -64,8 +35,8 @@ if (sim == "sim")
             case "1":
                 PessoaFisica pessoaf = new PessoaFisica();
                 Console.WriteLine("pessoa fisica");
-                pessoaf.Nome = "";
-                pessoaf.Idade = 19;
+                pessoaf.Nome = "lucas";
+                pessoaf.Idade = 10;
                 pessoaf.CpfRg = 124563;
                 pessoaf.Email = "teste@teste";
                 pessoaf.Contato = "196548726";
@@ -89,7 +60,7 @@ if (sim == "sim")
                     $"{pessoaf.Nome},{pessoaf.Idade},{pessoaf.CpfRg},{pessoaf.Email},{pessoaf.Contato},{pessoaf.Localidade}");
                     Console.WriteLine("Pessoa física salva com sucesso!");
                 }
-                else if (string.IsNullOrWhiteSpace(pessoaf.Nome) && salvar == "1"){
+                else if (string.IsNullOrWhiteSpace(pessoaf.Nome)  && CamposInteirosPreenchidos(pessoaf.Idade, pessoaf.CpfRg) && salvar == "1"){
                     Console.WriteLine("voce nao preencheu todos os campos!!");
                 }
 
@@ -141,6 +112,9 @@ else
     {
         Console.WriteLine("preencha todos os campos");
     }
+        }
+        
 
+    }
 
-*/
+}
