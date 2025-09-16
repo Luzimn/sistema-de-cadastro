@@ -1,11 +1,14 @@
 ﻿using projetocsharp.models;
 using Projetocsharp.services;
+using Projetocsharp.servicesBoleto;
 
 class Program
 {
     static void Main(string[] args)
     {
-        MenuCadastro.ExecutarMenu();
+        MenuCadastroBoleto.ExecutarMenuBoleto();
+        //MenuCadastro.ExecutarMenu();
+
     }
 }
 

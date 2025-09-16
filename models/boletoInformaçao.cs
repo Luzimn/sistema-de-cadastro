@@ -4,7 +4,7 @@ using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
 
-namespace projetocsharp.models
+namespace Projetocsharp.models.boleto
 {
     public class RegistroEmissor
     {
@@ -32,6 +32,7 @@ namespace projetocsharp.models
         public double ValorBoleto { get; set; }
         public DateTime DataVencimento { get; set; }
         public DateTime DataEmissao { get; set; }
+        public int DiasPVencimento { get; set; }
     }
 
 }
