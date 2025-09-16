@@ -13,3 +13,18 @@ C:\Users\Lu\Documents\VS projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9
 C:\Users\Lu\Documents\VS projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.genruntimeconfig.cache
 C:\Users\Lu\Documents\VS projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\ref\projetocsharp.dll
 C:\Users\Lu\Documents\VS projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.sourcelink.json
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\bin\Debug\net9.0\projetocsharp.exe
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\bin\Debug\net9.0\projetocsharp.deps.json
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\bin\Debug\net9.0\projetocsharp.runtimeconfig.json
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\bin\Debug\net9.0\projetocsharp.dll
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\bin\Debug\net9.0\projetocsharp.pdb
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.AssemblyInfoInputs.cache
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.AssemblyInfo.cs
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.csproj.CoreCompileInputs.cache
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.sourcelink.json
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.dll
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\refint\projetocsharp.dll
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.pdb
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\projetocsharp.genruntimeconfig.cache
+C:\Users\lu\Documents\projetos\projeto_gestaoApp\projetocsharp\obj\Debug\net9.0\ref\projetocsharp.dll

@@ -1,31 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lu\\Documents\\VS projetos\\projeto_gestaoApp\\projetocsharp\\projetocsharp.csproj": {}
+    "C:\\Users\\lu\\Documents\\projetos\\projeto_gestaoApp\\projetocsharp\\projetocsharp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lu\\Documents\\VS projetos\\projeto_gestaoApp\\projetocsharp\\projetocsharp.csproj": {
+    "C:\\Users\\lu\\Documents\\projetos\\projeto_gestaoApp\\projetocsharp\\projetocsharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lu\\Documents\\VS projetos\\projeto_gestaoApp\\projetocsharp\\projetocsharp.csproj",
+        "projectUniqueName": "C:\\Users\\lu\\Documents\\projetos\\projeto_gestaoApp\\projetocsharp\\projetocsharp.csproj",
         "projectName": "projetocsharp",
-        "projectPath": "C:\\Users\\Lu\\Documents\\VS projetos\\projeto_gestaoApp\\projetocsharp\\projetocsharp.csproj",
-        "packagesPath": "C:\\Users\\Lu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lu\\Documents\\VS projetos\\projeto_gestaoApp\\projetocsharp\\obj\\",
+        "projectPath": "C:\\Users\\lu\\Documents\\projetos\\projeto_gestaoApp\\projetocsharp\\projetocsharp.csproj",
+        "packagesPath": "C:\\Users\\lu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\lu\\Documents\\projetos\\projeto_gestaoApp\\projetocsharp\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Lu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\lu\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,12 +54,31 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
+              "version": "[9.0.8, 9.0.8]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.win-x64",
+              "version": "[9.0.8, 9.0.8]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
+              "version": "[9.0.8, 9.0.8]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
         }
       }
     }

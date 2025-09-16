@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "INpeC0fybmo=",
+  "dgSpecHash": "sFidIWYRAyU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lu\\Documents\\VS projetos\\projeto_gestaoApp\\projetocsharp\\projetocsharp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\lu\\Documents\\projetos\\projeto_gestaoApp\\projetocsharp\\projetocsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lu\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\9.0.8\\microsoft.netcore.app.runtime.win-x64.9.0.8.nupkg.sha512",
+    "C:\\Users\\lu\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\9.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.9.0.8.nupkg.sha512",
+    "C:\\Users\\lu\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\9.0.8\\microsoft.aspnetcore.app.runtime.win-x64.9.0.8.nupkg.sha512"
+  ],
   "logs": []
 }

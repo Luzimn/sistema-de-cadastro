@@ -3,11 +3,19 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading.Tasks;
+using System.Globalization;
+
+
+
+
 
 namespace Projetocsharp.models.boleto
+
 {
     public class RegistroEmissor
+    
     {
+        
 
         //dados do emissor
         public string? NomeRazao { get; set; }
@@ -18,7 +26,7 @@ namespace Projetocsharp.models.boleto
     };
 
     public class RegistroPagador
-        // dados do pagador
+    // dados do pagador
     {
         public string? NomePagador { get; set; }
         public int CnpjouCpfPagador { get; set; }
@@ -29,7 +37,7 @@ namespace Projetocsharp.models.boleto
     {
         // dados do boleto
         public int NumeroBoleto { get; set; }
-        public double ValorBoleto { get; set; }
+        public decimal ValorBoleto { get; set; }
         public DateTime DataVencimento { get; set; }
         public DateTime DataEmissao { get; set; }
         public int DiasPVencimento { get; set; }
